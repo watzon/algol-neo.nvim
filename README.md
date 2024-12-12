@@ -2,6 +2,10 @@
 
 A Neovim colorscheme inspired by the ALGOL programming language's emphasis on typography, offering both light and dark variants.
 
+<div align="center">
+    <img src="./.github/images/shot.png" alt="goshot screenshot" />
+</div>
+
 ## Features
 
 - Light and dark variants

@@ -62,7 +62,13 @@ end, {})
 
 ## Screenshots
 
-[Add screenshots here]
+### Light Theme
+
+![Light theme](./.github/images/screenshot-light.png)
+
+### Dark Theme
+
+![Dark theme](./.github/images/screenshot-dark.png)
 
 ## License
 
